@@ -1,0 +1,19 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveenkumar2081/netflixgpt.git"
+  },
+  "author": "naveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveenkumar2081/netflixgpt/issues"
+  },
+  "homepage": "https://github.com/naveenkumar2081/netflixgpt#readme"
+}
